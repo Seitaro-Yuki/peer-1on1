@@ -1,0 +1,990 @@
+{
+  "members": [
+    "本間",
+    "片山",
+    "西條",
+    "今井",
+    "関森",
+    "柴田",
+    "塚本",
+    "松井",
+    "堀内"
+  ],
+  "excluded": [
+    ["今井", "片山"],
+    ["今井", "塚本"],
+    ["今井", "松井"],
+    ["今井", "堀内"],
+    ["西條", "堀内"]
+  ],
+  "months": [
+    {
+      "month": "2021年10月",
+      "skip": "福地",
+      "assignments": [
+        {
+          "mentor": "岡本",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "小林"
+        }
+      ]
+    },
+    {
+      "month": "2021年11月",
+      "skip": "今井",
+      "assignments": [
+        {
+          "mentor": "関森",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "福地"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "岡本"
+        },
+        {
+          "mentor": "小林",
+          "mentee": "西條"
+        }
+      ]
+    },
+    {
+      "month": "2021年12月",
+      "skip": "後藤",
+      "assignments": [
+        {
+          "mentor": "岡本",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "小林"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "柴田"
+        }
+      ]
+    },
+    {
+      "month": "2022年1月",
+      "skip": "西條",
+      "assignments": [
+        {
+          "mentor": "今井",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "小林",
+          "mentee": "岡本"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "福地"
+        }
+      ]
+    },
+    {
+      "month": "2022年2月",
+      "skip": "関森",
+      "assignments": [
+        {
+          "mentor": "後藤",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "小林"
+        },
+        {
+          "mentor": "岡本",
+          "mentee": "柴田"
+        }
+      ]
+    },
+    {
+      "month": "2022年3月",
+      "skip": "小林",
+      "assignments": [
+        {
+          "mentor": "柴田",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "岡本"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "関森"
+        }
+      ]
+    },
+    {
+      "month": "2022年4月",
+      "assignments": [
+        {
+          "mentor": "関森",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "岡本"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "福地"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "今井"
+        }
+      ]
+    },
+    {
+      "month": "2022年5月",
+      "assignments": [
+        {
+          "mentor": "柴田",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "岡本",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "後藤"
+        }
+      ]
+    },
+    {
+      "month": "2022年6月",
+      "assignments": [
+        {
+          "mentor": "今井",
+          "mentee": "岡本"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "塚本"
+        }
+      ]
+    },
+    {
+      "month": "2022年7月",
+      "skip": "柴田",
+      "assignments": [
+        {
+          "mentor": "塚本",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "福地"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "関森"
+        }
+      ]
+    },
+    {
+      "month": "2022年8月",
+      "skip": "福地",
+      "assignments": [
+        {
+          "mentor": "後藤",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "関森"
+        }
+      ]
+    },
+    {
+      "month": "2022年9月",
+      "skip": "今井",
+      "assignments": [
+        {
+          "mentor": "福地",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "後藤"
+        }
+      ]
+    },
+    {
+      "month": "2022年10月",
+      "assignments": [
+        {
+          "mentor": "西條",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "鈴木"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "柴田"
+        }
+      ]
+    },
+    {
+      "month": "2022年11月",
+      "assignments": [
+        {
+          "mentor": "今井",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "鈴木"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "福地"
+        }
+      ]
+    },
+    {
+      "month": "2023年1月",
+      "skip": "後藤",
+      "assignments": [
+        {
+          "mentor": "福地",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "塚本"
+        }
+      ]
+    },
+    {
+      "month": "2023年2月",
+      "skip": "柴田",
+      "assignments": [
+        {
+          "mentor": "塚本",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "今井"
+        }
+      ]
+    },
+    {
+      "month": "2023年3月",
+      "skip": "福地",
+      "assignments": [
+        {
+          "mentor": "後藤",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "今井"
+        }
+      ]
+    },
+    {
+      "month": "2023年4月",
+      "skip": "今井",
+      "assignments": [
+        {
+          "mentor": "関森",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "後藤"
+        }
+      ]
+    },
+    {
+      "month": "2023年5月",
+      "skip": "関森",
+      "assignments": [
+        {
+          "mentor": "柴田",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "福地"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "後藤"
+        }
+      ]
+    },
+    {
+      "month": "2023年6月",
+      "skip": "西條",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "柴田"
+        }
+      ]
+    },
+    {
+      "month": "2023年7月",
+      "skip": "塚本",
+      "assignments": [
+        {
+          "mentor": "今井",
+          "mentee": "松井"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "巨畠"
+        },
+        {
+          "mentor": "中村",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "福地"
+        }
+      ]
+    },
+    {
+      "month": "2023年8月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "福地"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "本間"
+        }
+      ]
+    },
+    {
+      "month": "2023年9月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "福地"
+        }
+      ]
+    },
+    {
+      "month": "2023年10月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "福地"
+        }
+      ]
+    },
+    {
+      "month": "2023年11月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "福地"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "松井",
+          "mentee": "巨畠"
+        }
+      ]
+    },
+    {
+      "month": "2023年12月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "福地"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "巨畠"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "松井"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "関森"
+        }
+      ]
+    },
+    {
+      "month": "2024年1月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "巨畠"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "松井"
+        }
+      ]
+    },
+    {
+      "month": "2024年2月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "本間",
+          "mentee": "松井"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "巨畠"
+        }
+      ]
+    },
+    {
+      "month": "2024年3月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "巨畠"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "松井"
+        },
+        {
+          "mentor": "本間",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "関森"
+        }
+      ]
+    },
+    {
+      "month": "2024年4月",
+      "assignments": [
+        {
+          "mentor": "中村",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "巨畠"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "松井"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "柴田"
+        }
+      ]
+    },
+    {
+      "month": "2024年5月",
+      "assignments": [
+        {
+          "mentor": "今井",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "松井",
+          "mentee": "福地"
+        },
+        {
+          "mentor": "本間",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "巨畠"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "関森"
+        }
+      ]
+    },
+    {
+      "month": "2024年6月",
+      "assignments": [
+        {
+          "mentor": "柴田",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "本間",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "松井"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "巨畠"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "後藤"
+        }
+      ]
+    },
+    {
+      "month": "2024年7月",
+      "assignments": [
+        {
+          "mentor": "西條",
+          "mentee": "中村"
+        },
+        {
+          "mentor": "福地",
+          "mentee": "堀内"
+        },
+        {
+          "mentor": "本間",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "松井",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "後藤"
+        }
+      ]
+    },
+    {
+      "month": "2024年8月",
+      "assignments": [
+        {
+          "mentor": "松井",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "片山",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "堀内",
+          "mentee": "関森"
+        }
+      ]
+    },
+    {
+      "month": "2024年9月",
+      "assignments": [
+        {
+          "mentor": "今井",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "松井",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "堀内"
+        }
+      ]
+    },
+    {
+      "month": "2024年10月",
+      "assignments": [
+        {
+          "mentor": "西條",
+          "mentee": "本間"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "後藤",
+          "mentee": "堀内"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "松井"
+        }
+      ]
+    },
+    {
+      "month": "2024年11月",
+      "assignments": [
+        {
+          "mentor": "本間",
+          "mentee": "堀内"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "後藤"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "柴田"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "松井",
+          "mentee": "西條"
+        }
+      ]
+    },
+    {
+      "month": "2024年12月",
+      "assignments": [
+        {
+          "mentor": "本間",
+          "mentee": "鄭"
+        },
+        {
+          "mentor": "今井",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "松井",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "関森",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "堀内"
+        }
+      ]
+    },
+    {
+      "month": "2025年1月",
+      "assignments": [
+        {
+          "mentor": "関森",
+          "mentee": "鄭"
+        },
+        {
+          "mentor": "本間",
+          "mentee": "今井"
+        },
+        {
+          "mentor": "西條",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "塚本"
+        },
+        {
+          "mentor": "松井",
+          "mentee": "堀内"
+        }
+      ]
+    },
+    {
+      "month": "2025年2月",
+      "assignments": [
+        {
+          "mentor": "今井",
+          "mentee": "関森"
+        },
+        {
+          "mentor": "本間",
+          "mentee": "松井"
+        },
+        {
+          "mentor": "堀内",
+          "mentee": "片山"
+        },
+        {
+          "mentor": "柴田",
+          "mentee": "西條"
+        },
+        {
+          "mentor": "塚本",
+          "mentee": "鄭"
+        }
+      ]
+    }
+  ]
+}
